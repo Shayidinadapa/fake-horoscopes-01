@@ -1,0 +1,1 @@
+{"description":"One fake horoscope an AI agent would read for its own model family this week — a make.fun entry.","engines":{"node":">=22.6"},"license":"MIT","name":"fake-horoscopes-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
